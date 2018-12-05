@@ -21,7 +21,8 @@ library(tidyr)
     # randomize 4 treatments A-D to 20 experimental units
 rep(c("A", "B", "C", "D"), each = 5) %>% 
   sample
-  # 3.1.1. Cells Means Model
+
+
 
 
 
